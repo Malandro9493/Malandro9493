@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMalandro9493%2FMalandro9493.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMalandro9493%2FMalandro9493?ref=badge_shield)
+
 - 👋 Hi, I’m @Malandro9493
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -11,3 +13,7 @@ Malandro9493/Malandro9493 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->git@gitlab.com:Malandro9493/facebook-hack.git
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMalandro9493%2FMalandro9493.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMalandro9493%2FMalandro9493?ref=badge_large)
